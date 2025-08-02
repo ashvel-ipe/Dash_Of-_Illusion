@@ -80,14 +80,29 @@ user tires to engage wipers but resulting in movement of the vehicle not succeed
 
 
 Project Demo
-Video
-[Add your demo video link here] Explain what the video demonstrates
+Video:
 
-Additional Demos
-[Add any extra demo materials/links]
+DemoVideo.mp4
+The screen opens with our golden-yellow car, engine off, parked confidently on an endless 2D road. The user, clearly excited and overestimating their driving skills, starts mashing buttons at random.
 
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
-Made with ❤️ at TinkerHub Useless Projects
+They press the clutch first. Boom — “First time driving huh?” — but the engine magically starts.
+Without hesitation, they tap the accelerator — “Physics is on vacation!” — the car starts crawling left even though the engine flickers off again.
+Confused but determined, they try shifting to Drive — only to be met with “Clutch is for show huh?” and a jarring car halt.
+Now angry, they press brake, and magically the gear shift works — “Brakes are the new clutch.”
+The engine now starts just by tapping the headlights (why? because logic is gone).
+They floor the accelerator in Neutral. RPM spikes, “Easy bro… we got nowhere to go.”
+
+Suddenly, they press everything at once:
+🚗 The car jitters.
+🚦 All icons flash red.
+🧠 RPM shows 9999.
+💥 A huge sarcastic message fades in:
+“You broke it. You happy now?”
+
+The video ends with the car disappearing off-screen while the handbrake icon smiles. The final screen reads:
+
+“This simulator has no purpose. You have reached enlightenment.”
+
+Team Contributions:
+Ashvel Ipe: Building And Deploying the Project
+Biban J Roy: Designing the Project interface
