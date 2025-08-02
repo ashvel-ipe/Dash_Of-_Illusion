@@ -68,21 +68,23 @@ Project Documentation
 For Software:
 
 Screenshots 
-Landing_Page.png
+<img width="1360" height="647" alt="Landing_Page" src="https://github.com/ashvel-ipe/Dash_Of-_Illusion/blob/main/Landing_Page.png"/>
+
 this is the home screen of the project.
 
-DashOnIllusionPedalschange.png
+<img width="1360" height="647" alt="Landing_Page" src="https://github.com/ashvel-ipe/Dash_Of-_Illusion/blob/main/DashOnIllusion.png"/>
 when user tries to drive the vehicle suddenly all controlls get vanished for approx 3 seconds and regaining its palces
 so user tries but didnt succeed
 
-wiperengage.png
-user tires to engage wipers but resulting in movement of the vehicle not succeeding in turing wipers on/off
 
+user tires to engage wipers but resulting in movement of the vehicle not succeeding in turing wipers on/off
+<img width="1360" height="647" alt="Landing_Page" src="https://github.com/ashvel-ipe/Dash_Of-_Illusion/blob/main/DashOnIllusion.BOOM.png"/>
 
 Project Demo
 Video:
+https://github.com/ashvel-ipe/Dash_Of-_Illusion/blob/main/DemoVideo.mp4
 
-DemoVideo.mp4
+
 The screen opens with our golden-yellow car, engine off, parked confidently on an endless 2D road. The user, clearly excited and overestimating their driving skills, starts mashing buttons at random.
 
 They press the clutch first. Boom — “First time driving huh?” — but the engine magically starts.
