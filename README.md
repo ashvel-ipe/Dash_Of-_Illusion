@@ -4,7 +4,7 @@ Basic Details:
 
 Team Name: Hackintosh
 Team Members
-Team Lead: Ashvel Ipe - MBCCET Kuttikkanam
+Team Lead: Ashvel Ipe - MBCCET Kuttikkanam,
 Member 2: Biban J Roy - MBCCET Kuttikkanam
 
 Project Description
@@ -23,44 +23,44 @@ Technical Details
 Technologies/Components Used
 For Software:
 
-TypeScript
+TypeScript,
 
-Next.js
-React(With TSX)
-Tailwind CSS 
+Next.js,
+React(With TSX),
+Tailwind CSS ,
 
-Lucide React 
-Classnames
-React Hooks
+Lucide React ,
+Classnames,
+React Hooks,
 
-Vercel 
-VS Code
-Git + GitHub 
+Vercel ,
+VS Code,
+Git + GitHub ,
 ChatGPT – For co-piloting poor life decisions.
 
 For Hardware:
 
-A Golden-Yellow Car Image 
-Imaginary Sensors
-Road Graphic
+A Golden-Yellow Car Image ,
+Imaginary Sensors,
+Road Graphic,
 
-Controls
-Animation Engine
-Realism Level
+Controls:
+Animation Engine,
+Realism Level,
 
-Mouse
-Web Browser
-Laptop/PC 
-Network Connection
+Mouse,
+Web Browser,
+Laptop/PC ,
+Network Connection,
 
 Implementation
 For Software:
-TypeScript + TSX
-React + Next.js
-Tailwind CSS
-Lucide Icons
+TypeScript + TSX,
+React + Next.js,
+Tailwind CSS,
+Lucide Icons,
 
-Installation
+Installation:
 npm install
 
 
