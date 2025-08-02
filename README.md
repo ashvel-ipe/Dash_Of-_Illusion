@@ -67,25 +67,17 @@ npm install
 Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
-<img width="1360" height="647" alt="Landing_Page" src="https://github.com/user-attachments/assets/b19ef05a-2a7b-497e-8b1b-b4e85a289f9c" />
+Screenshots 
+Landing_Page.png
+this is the home screen of the project.
 
+DashOnIllusionPedalschange.png
+when user tries to drive the vehicle suddenly all controlls get vanished for approx 3 seconds and regaining its palces
+so user tries but didnt succeed
 
-(Add screenshot 1 here with proper name) Add caption explaining what this shows
+wiperengage.png
+user tires to engage wipers but resulting in movement of the vehicle not succeeding in turing wipers on/off
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
-
-
-
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
